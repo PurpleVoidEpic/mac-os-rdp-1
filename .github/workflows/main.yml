@@ -1,4 +1,4 @@
-name: macOS
+name: macsy
 on: 
   workflow_dispatch:
 defaults:
